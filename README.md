@@ -78,6 +78,8 @@
 
 ### 📊 Entity Relationship Diagram
 **ERDCloud에서 직접 보기**: [ChzzkHub Database Schema](https://www.erdcloud.com/p/xgAq475HHrSBvQLC9)
+- 업데이트
+  - 2025-09-21 특정 테이블에 생성시간, 업데이트 시간 업데이트
 
 
 ### 📊 주요 테이블 구성
