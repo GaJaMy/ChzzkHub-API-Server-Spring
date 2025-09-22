@@ -16,7 +16,7 @@ import lombok.NoArgsConstructor;
 public class Crew extends BaseEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long Id;
+    private Long crewId;
 
     @Column(nullable = false, unique = true)
     private String uuid;
