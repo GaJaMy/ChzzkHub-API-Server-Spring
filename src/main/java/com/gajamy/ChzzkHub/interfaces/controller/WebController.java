@@ -1,4 +1,4 @@
-package com.gajamy.ChzzkHub.controller;
+package com.gajamy.ChzzkHub.interfaces.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
